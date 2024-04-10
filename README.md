@@ -1,7 +1,5 @@
-# ejercicio-alumno
+# Ejercicio NOMUS
 
-## Integrantes
+## Estructura de datos : Tuplas - Data - Listas
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+
