@@ -9,8 +9,6 @@
 
 Los Nomus son humanos mutados que poseen distintas capacidades físicas, como tener alas, múltiples brazos, cantidad de ojos y el color de piel, además de tener una cantidad de vida y fuerza.
 
-¡Modelémoslos e instanciemoslos con tuplas!
-
 Luego se nos pide averiguar si puede ver, es decir, si tiene ojos y su categoría.
 
 Categorías de un Nomu:
@@ -21,10 +19,6 @@ Categorías de un Nomu:
 
 **PARTE 2**
 ![nomus2](https://github.com/pdepjm/2024-f-practica-nomus/assets/117084858/d6cd3701-83e0-499b-949f-7832623bcf06)
-
-¿Y si tuviéramos que modelarlos e instanciarlos con data, conseguir su categoría y saber si ve?
-
-**PARTE 3**
 
 Otra cosa que no contemplamos es que los Nomus pueden tener muchos poderes, como super regeneración, super fuerza, fuego, y teletransportación, entre otros…
 Sabemos que un poder tiene:
